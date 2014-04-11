@@ -25,7 +25,8 @@ Huang Li (13126082)
 	-	Defect prevention: Implementation activities 
 	-	Testing: executable code
 -	*Applicability to development phases*
-	-	Defect prevention: Implementation (req/spec/design/coding)	-	Testing: testing phase and after
+	-	Defect prevention: Implementation (req/spec/design/coding)
+	-	Testing: testing phase and after
 -	*Expertise levels and background knowledge*
 	-	Defect prevention: medium to high expertise levels
 	-	Testing: low to high expertise levels
