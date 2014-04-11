@@ -19,19 +19,19 @@ Huang Li (13126082)
 ###Tesing VS. Defect Prevention
 
 -	*Applicability to maintenance*
-	-	Defect prevention: Not applicable
+	-	Defect Prevention: Not applicable
 	-	Testing: Applicable to a limited degree
 -	*Objects QA activities applied on*
-	-	Defect prevention: Implementation activities 
+	-	Defect Prevention: Implementation activities 
 	-	Testing: executable code
 -	*Applicability to development phases*
-	-	Defect prevention: Implementation (req/spec/design/coding)
+	-	Defect Prevention: Implementation (req/spec/design/coding)
 	-	Testing: testing phase and after
 -	*Expertise levels and background knowledge*
-	-	Defect prevention: medium to high expertise levels
+	-	Defect Prevention: medium to high expertise levels
 	-	Testing: low to high expertise levels
 -	*Defect perspectives*	
-	-	Defect prevention: errors and error sources detected in defect prevention but reduced fault injection in followup
+	-	Defect Prevention: errors and error sources detected in defect prevention but reduced fault injection in followup
 	-	Testing: failures detected in testing but (failure-causing) faults fixed in followup
 -	*Problem types*
 	-	Defect Prevention: systematic errors or conceptual mistakes
