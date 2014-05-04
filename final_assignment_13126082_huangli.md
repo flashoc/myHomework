@@ -20,7 +20,7 @@ Tools like Selenium, Jenkins and so on can enable us to run automated tests on o
 ## Try out new ideas
 We shall always eager to learn about anything which might help us increase the quality and value of what we produce. 
 
-## Use the six functional tests to ensure software quality
+## Use the six functional tests
 	Six types of functional testing can be used to ensure the quality of the diandian(点点单词) app. 
 	Understand these testing types and make the most of them to fulfill the quality requirements of the project.
 
