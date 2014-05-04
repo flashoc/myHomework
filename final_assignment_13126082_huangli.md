@@ -1,4 +1,4 @@
-How to ensure the quality of a software system
+How to ensure the quality of diandian app
 =====
 Huang Li (13126082)
 
